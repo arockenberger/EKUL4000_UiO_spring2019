@@ -1,10 +1,10 @@
 |Time|Topic|Room|Material|
 |---|---|---|---|
 |09.00|Velkomst|||
-|09.15|Digitale Samlinger||
+|09.15|Digital Humaniora – Hva er det egentlig?||
 |10.00|Jargon Busting||
 |10.30|Pause|Foyer||
-|10.45|Digitale Metoder||
+|10.45|Digitale Samlinger – I Norge, Norden og Europa||
 |11.30|Setup Datamaskin||
 |12.00|Lunsj||
 |13.00|Bokhylla med Jupyter Notebook||
