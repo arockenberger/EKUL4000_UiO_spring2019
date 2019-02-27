@@ -35,4 +35,18 @@ Les artiklen. Ta notater i hensikt til disse spørsmålene:
 
 Obs! Teksten er på engelsk og kanskje ikke så lett å lese. Bruk en ordbok og slå opp alt du ikke er sikker i at du skjønner. Noen ord er fagterminologi, som f.eks. 'explication'. Les opplegg [Explication](https://plato.stanford.edu/entries/definitions/#ExpDef) i Standfort Encyclopedia of Philosophy.
 
-### 3 
+### 3 Linked Open Data – Wikipedia entry
+
+#### Material
+
+(https://en.wikipedia.org/wiki/Linked_data)
+
+Før seminaret skal dere lese om Linked Data i Wikipedia (engelsk utgave). Ta en titt på "References" også!
+
+#### Oppgave
+
+Les artiklen. Ta notater i hensikt til disse spørsmålene:
+
+- 1) Hva er Linked Data?
+- 2) Hva er Linked OPEN Data og Linked Open USEFUL Data?
+- 3) Tenk litt: Hvor og hvordan kunne du komme i kontakt med Linked Data i din forskning?
